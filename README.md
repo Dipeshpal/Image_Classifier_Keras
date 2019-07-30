@@ -1,3 +1,4 @@
+
 # Image_Classifier_Keras
 
  Image Classifier in Keras by using Inception, Resnet, VGG etc
@@ -26,3 +27,12 @@ This is the universal Image Classifier, with this project you can classify any i
 
 
 7. Optional: You can import different model from [Keras](https://keras.io/applications/) and train it. By default it will train on [InceptionV3](https://keras.io/applications/#inceptionv3). If you use different model you may need to change the input shape of images, for mode details you can see the [Keras](%28https://keras.io/applications/%29) model documentations.
+
+
+## Predict your images after training-
+
+1. Open  [keras_predict.ipynb](https://github.com/Dipeshpal/Image_Classifier_Keras/blob/master/keras_predict.ipynb "keras_predict.ipynb") or [keras_predict.py](https://github.com/Dipeshpal/Image_Classifier_Keras/blob/master/keras_predict.py "keras_predict.py") file and create dictionary of your classes and set it to "dict1" variable in code-
+![Image](https://i.ibb.co/CbFHkK4/aaassaaaa.png)
+
+2. Now predict your own image just by set your own path of image and model-
+![Predict_Image](https://i.ibb.co/NWc5jqS/2121212121.png)
