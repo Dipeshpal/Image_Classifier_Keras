@@ -1,5 +1,3 @@
-
-
 # Image_Classifier_Keras
 
  Image Classifier in Keras by using Inception, Resnet, VGG etc
@@ -22,7 +20,7 @@ This is the universal Image Classifier, with this project you can classify any i
 	![Images](https://i.ibb.co/fY95sdf/Capture.png) 
  
 
-6. Now open training.ipnyb or training.py file and set your train directory path (mandatory) and few more varibles (optional)
+6. Now open **training.ipnyb** or **training.py** file and set your train directory path (mandatory) and few more varibles (optional)
 
 	![Screenshot](https://i.ibb.co/rkV5P6P/2.png)
 
